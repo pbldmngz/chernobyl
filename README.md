@@ -20,3 +20,5 @@ No he tenido tiempo de investigar como se jala desde un JSON así que de momento
 ```javascript
 var black_list = ["pinche", "pendejo", "verga", "madre", "madres", "puta", "p***", "palta", "sombrilla"];
 ```
+
+Solo dale click al botón rojo, activa tu micrófono y di las palabras mágicas para escuchar tu castigo.
