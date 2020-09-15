@@ -18,5 +18,5 @@ En definitiva, no me hago responsable y esto es marca ACME
 No he tenido tiempo de investigar como se jala desde un JSON así que de momento la lista negra de palabras está hardcodeada con estas palabras.
 
 ```javascript
-var black_list = ["pinche", "pendejo", "verga", "madre", "madres", "puta", "p***", "palta", "sombrilla"]
+var black_list = ["pinche", "pendejo", "verga", "madre", "madres", "puta", "p***", "palta", "sombrilla"];
 ```
