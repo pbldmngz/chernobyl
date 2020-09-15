@@ -13,3 +13,7 @@
 * Como los navegadores no quieren publicidad invasiva, lo del sonido solo se pudo activar haciéndo que primero des un click en la página, es el único objetivo del botón
 
 En definitiva, no me hago responsable y esto es marca ACME
+
+# Modo de uso
+No he tenido tiempo de investigar como se jala desde un JSON así que de momento la lista negra de palabras está hardcodeada con estas palabras
+`var black_list = ["pinche", "pendejo", "verga", "madre", "madres", "puta", "p***", "palta", "sombrilla"]`
